@@ -1,0 +1,16 @@
+{
+    "name": "davidumoh/algorithms-php",
+    "description": "Algorithm Implementations using PHP.",
+    "authors": [
+        {
+            "name": "David Umoh",
+            "email": "umohdavid@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4" : {
+            "DavidUmoh\\Algorithms\\":"src"
+        }
+    }
+}
