@@ -10,4 +10,6 @@ interface UnionFindInterface{
     public function union(int $p, int $q);
 
     public function find($p);
+
+    public function count();
 }
