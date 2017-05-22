@@ -1,8 +1,9 @@
 # Algorithms-PHP
 This repo contains implementations of Algorithms from Robert Sedgewicks course:Algorithm 1 on coursera using PHP.
 
-##Algorithms
-###Union Find
+## Algorithms
+
+### Union Find
 There 4 implementations of this algorithm here. 2 have been implemented so far:
   - Quick Find
   - Quick Union
